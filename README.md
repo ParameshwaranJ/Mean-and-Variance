@@ -43,9 +43,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
       ![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
 
 
-# Experiment :
-
-![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
 ```
@@ -89,17 +86,6 @@ print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 ```
 # Output : 
 <img width="739" height="404" alt="Screenshot 2026-05-26 093440" src="https://github.com/user-attachments/assets/d3021644-eac8-47c5-b260-d0b7745302fe" />
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Results :
